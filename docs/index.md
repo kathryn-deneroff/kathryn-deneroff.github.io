@@ -6,13 +6,13 @@ layout: home
 title: ""
 ---
 
-## Kathryn's Story
+# Kathryn's Story
 
 This space is dedicated to celebrating the life and spirit of Kathryn, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment.
 
 Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time and the chance for more stories like Kathryn's to unfold. Together, we can make a difference in the fight against cancer and carry forward Kathryn's legacy of hope and courage.
 
-### 2019 - Initial diagnosis and chemo
+## 2019 - Initial diagnosis and chemo
 
 Despite the shock of the diagnosis and going through a first chemo treatment, surgery, 2019 was also filled with many happy memories including support from her dear friends, being the bridesmaid in two weddings and vacation to Newport with Sid!
 
@@ -22,7 +22,7 @@ She also got to spend time with her many dear friends who visited and supported 
 
 {% include image-gallery.html folder="/assets/2019-B" %}
 
-### 2020 - Recovery and Adventure
+## 2020 - Recovery and Adventure
 
 Kathryn completed her first round of chemotherapy in January. The beginning of the year also coincided with the Covid lockdown period in Boston! While this meant she couldn't see her friends in person as much, she focused on recovering and building up her strength through walking, biking and exercise. She also decided to drive up to her family home in Michigan for a few months, and spend quality time cooking, roasting marshmallows in the backyard, playing board games with the family! 
 
@@ -31,3 +31,11 @@ Kathryn completed her first round of chemotherapy in January. The beginning of t
 Summer and fall of 2020 was filled with sunshine, the outdoors, adventure and laughter. There were many big milestones: a first hike post surgery in Massachusetts (Mt Tom State Reservation), kayaking in the Charles, picknicking at Spectacle Island, Apple picking in Northborough, camping in Conway, and visiting Maine with her parents. Winter also heralded the joyful arrival of Sadie, her mom's cavapoo!
 
 {% include image-gallery.html folder="/assets/2020-B" %}
+
+## 2021 - Recurrence, Surgery and more Adventure
+
+The start of 2021 continued with more of the same. There was much winter hiking, snowshoeing, celebrating her Birthday, Airbnbs, enjoying beautiful sunsets and spending time with friends.
+
+{% include image-gallery.html folder="/assets/2021-A" %}
+
+In May, she recieved the news that the scans had picked up cancer recurrence, and prepared herself fora second round of chemotherapy and surgery. 
