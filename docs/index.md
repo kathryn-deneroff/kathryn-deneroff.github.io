@@ -99,3 +99,26 @@ The rest of the year was filled with various hikes, activities and adventures in
 {% include image-gallery.html folder="/assets/2022/Other" %}
 
 </details>
+
+<details open>
+<summary>2023 - Tuscon, Willow and Immunotherapy</summary>
+
+After a week hiking with her friends, Kathryn traveled to California to spend the early part of 2023 with Sid, along with a quick trip to Tuscon to celebrate her birthday! 
+
+{% include image-gallery.html folder="/assets/2023/Part A" %}
+
+In April, she and Sid welcomed the arrival of the newest family member, their cavapoo puppy Willow! Willow was and is a perfect bundle of joy, comfort and happiness. Sid is grateful that Kathryn had the foresight to know that he would need Willow when she was gone.
+
+{% include image-gallery.html folder="/assets/2023/Part B" %}
+
+In May, Kathryn's scans revealed that the cancer had returned to her lungs and could not be operated. After having gone through multiple rounds of extremely tough chemotherapy and surgery, she decided to avail of an immunotherapy pill offered by Dr. Janeway. She returned to Boston, and despite side effects and fatigue, continued to find joy in each day and being outside.
+
+{% include image-gallery.html folder="/assets/2023/Part C" %}
+
+</details>
+
+<details open>
+<summary>2024 - Portugal and a dramatic story</summary>
+
+
+</details>
