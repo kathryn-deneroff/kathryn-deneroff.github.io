@@ -22,7 +22,12 @@ title: ""
 
 # Kathryn's Story
 
-This space is dedicated to celebrating the life and spirit of Kathryn, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment.
+<p align="center">
+  <img src="/assets/kd.jpg" alt="Kathryn L Deneroff" style="width: 240px; float: right"/>
+</p>
+
+This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment.
+
 
 Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time and the chance for more stories like Kathryn's to unfold. Together, we can make a difference in the fight against cancer and carry forward Kathryn's legacy of hope and courage.
 
@@ -61,5 +66,36 @@ The start of 2021 continued with more of appreaciating each day and celebrating 
 In May, she recieved the very tough (but not unexpected) news that her cancer had returned. With characteristic determination, she prepared herself for a second round of chemotherapy, radiation and a tough surgery to remove nodules in her lungs, shoulder and hips in July. The surgery was extemely tough mentally and physically, however by November, Kathryn was out doing what she loved best: spending time hiking, smiling and being outdoors.
 
 {% include image-gallery.html folder="/assets/2021-B" %}
+
+</details>
+
+<details open>
+<summary>2022 - Traveling the World</summary>
+The second round of chemo, radiation and surgery at Dana Farber had gifted Kathryn an additional period of good health. As always, she was determined to make full use of this time. This year she traveled the world! 
+
+
+<h3> Yosemite & Muir Woods </h3>
+
+In January, she visited Sid in California to spend a few months with him visiting Yosemite for her birthday, then Muir Woods, Point Reyes, Point Lobos and Carmel Valley.
+
+{% include image-gallery.html folder="/assets/2022/California" %}
+
+<h3> Athens & Santorini </h3>
+
+Kathryn also planned a very special trip to Athens & Santorini in April.
+
+{% include image-gallery.html folder="/assets/2022/Greece" %}
+
+<h3> Singapore </h3>
+
+Kathryn also visited Sid's parents all the way in Singapore in July!
+
+{% include image-gallery.html folder="/assets/2022/Singapore" %}
+
+<h3> Other Snippets </h3>
+
+The rest of the year was filled with various hikes, activities and adventures in California, Washington, New Hampshire and Western Massachusetts. 
+
+{% include image-gallery.html folder="/assets/2022/Other" %}
 
 </details>
