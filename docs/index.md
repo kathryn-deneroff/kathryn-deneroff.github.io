@@ -26,10 +26,9 @@ title: ""
   <img src="/assets/kd.jpg" alt="Kathryn L Deneroff" style="width: 240px; float: right"/>
 </p>
 
-This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment.
+This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment. Clicking on the images will load the gallery that can be viewed in full screen.
 
-
-Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time and the chance for more stories like Kathryn's to unfold. Together, we can make a difference in the fight against cancer and carry forward Kathryn's legacy of hope and courage.
+Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time, the chance for more stories like Kathryn's to unfold and carry forward her legacy of hope and courage.
 
 <details open> 
 <summary>2019 - Initial diagnosis and chemo</summary>
