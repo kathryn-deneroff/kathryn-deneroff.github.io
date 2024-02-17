@@ -132,8 +132,6 @@ However, a couple of days before they were scheduled to return, Kathryn began fe
 
 Kathryn passed away peacefully in her sleep on Tuesday, February 13, enveloped in love and the comforting presence of her family and Willow. Throughout her ordeal, Kathryn's resilience, grace, and indomitable spirit never wavered. She faced each challenge with a pragmatic approach and her signature sense of humor, always prioritizing the well-being of others even in her toughest times.
 
-Kathryn's legacy is one of courage, love, and an unwavering commitment to life, joy and appreciating the small things in life, even in the face of its most daunting challenges. 
-
 She is deeply missed and forever loved, leaving an indelible mark on the hearts of all who knew her.
 
 </details>
