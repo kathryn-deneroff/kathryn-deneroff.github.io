@@ -33,7 +33,7 @@ Kathryn's story is shared with the hope that it not only honors her memory but a
 Explore Kathryn's journey year by year by clicking on the entries below. Each section unfolds her story, capturing moments of challenge, triumph, and joy through words and images. For a closer look, **click on any thumbnail** to launch the gallery in fullscreen mode, where you can immerse yourself in the vivid details of her journey, honor Kathryn's memory and celebrate her enduring spirit and the beauty of her life's moments.
 
 <details> 
-<summary>2019 - Initial diagnosis and chemo</summary>
+<summary>2019 - Initial diagnosis and Chemo</summary>
 
 2019 brought a mix of challenge and joy for Kathryn. Despite facing a tough diagnosis and beginning chemotherapy and surgery, the year was also filled with moments of love and support. Kathryn stood beside her friends as a bridesmaid, explored Newport with Sid, and found joy in simple pleasures. From learning to navigate life on crutches, to enjoying music during treatment, Kathryn found genuine moments of resilience, friendship, and love.
 
@@ -120,7 +120,7 @@ In May, Kathryn's scans revealed that the cancer had returned to her lungs, spre
 </details>
 
 <details>
-<summary>2024 - Portugal and drama</summary>
+<summary>2024 - Portugal and Drama</summary>
 
 Kathryn always wanted to visit Portugal, so she and Sid planned a vacation in the middle of January to visit Lisbon and the island of Maderia! The start of the vacation was fun, and they had a great time exploring Belem, Sintra and the misty Fanal forest!
 
@@ -132,6 +132,8 @@ However, a couple of days before they were scheduled to return, Kathryn began fe
 
 Kathryn passed away peacefully in her sleep on Tuesday, February 13, enveloped in love and the comforting presence of her family and Willow. Throughout her ordeal, Kathryn's resilience, grace, and indomitable spirit never wavered. She faced each challenge with a pragmatic approach and her signature sense of humor, always prioritizing the well-being of others even in her toughest times.
 
-Kathryn's legacy is one of courage, love, and an unwavering commitment to life, joy and appreciating the small things in life, even in the face of its most daunting challenges. She is deeply missed and forever loved, leaving an indelible mark on the hearts of all who knew her.
+Kathryn's legacy is one of courage, love, and an unwavering commitment to life, joy and appreciating the small things in life, even in the face of its most daunting challenges. 
+
+She is deeply missed and forever loved, leaving an indelible mark on the hearts of all who knew her.
 
 </details>
