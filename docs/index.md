@@ -38,7 +38,7 @@ Kathryn's story is shared with the hope that it not only honors her memory but a
 
 {% include image-gallery.html folder="/assets/2019-A" %}
 
-The difficult days of treatment were brightened by visits from dear friends and cherished family gatherings, grounding her in love and support. From celebrating Thanksgiving, carving pumpkins, and reveling in the warmth of Christmas with her parents, brother, and Sid, each moment was a reminder of the strength found in togetherness.
+The difficult days of treatment were brightened by visits from dear friends and cherished family gatherings. From celebrating Thanksgiving, carving pumpkins, and reveling in the warmth of Christmas with her parents, brother, and Sid, each moment was a reminder of the strength found in togetherness.
 
 {% include image-gallery.html folder="/assets/2019-B" %}
 </details>
@@ -59,11 +59,11 @@ Summer and fall of 2020 was filled with sunshine, the outdoors, adventure and la
 <details open>
 <summary>2021 - Spring, Recurrence and Surgery</summary>
 
-As 2021 unfolded, Kathryn embraced each day with a renewed appreciation for the gift of time and health. The year kicked off with winter hikes and snowshoeing adventures, a celebration of her birthday amidst the serenity of Airbnb getaways, the captivating beauty of sunsets, and the vibrant blooms of spring. Surrounded by friends, Kathryn found joy in the simple pleasures of life, from the first thaw of winter to the colorful tulips heralding the onset of chemotherapy.
+The year kicked off with winter hikes and snowshoeing adventures, a celebration of her birthday, the captivating beauty of sunsets, the first thaw of winter and the colorful spring tulip blooms.
 
 {% include image-gallery.html folder="/assets/2021-A" %}
 
-By May, Kathryn faced the stark reality of her cancer's return—a tough, albeit anticipated, hurdle. She underwent a second round of chemotherapy, radiation, and a rigorous surgery aimed at removing nodules from her lungs, shoulder, and hips in July. Despite the exhausting mental and physical toll, Kathryn's resilience and zest for life shone brightly. By November, she was back to her sanctuary—the great outdoors—embracing life with open arms, hiking, and sharing her radiant smile with the world.
+By May, Kathryn faced the stark reality of her cancer's return—a tough, albeit anticipated, hurdle. She underwent a second round of chemotherapy, radiation, and a rigorous surgery aimed at removing nodules from her lungs, shoulder, and hips in July. Despite the exhausting mental and physical toll, Kathryn's resilience and zest for life shone brightly. Incredibly, by November, she was back to her sanctuary—the great outdoors—embracing life with open arms, hiking, and sharing her radiant smile with the world.
 
 {% include image-gallery.html folder="/assets/2021-B" %}
 
@@ -112,14 +112,14 @@ In April, she and Sid welcomed the arrival of the newest family member, their ca
 
 {% include image-gallery.html folder="/assets/2023/Part B" %}
 
-In May, Kathryn's scans revealed that the cancer had returned to her lungs and could not be operated. After having gone through multiple rounds of extremely tough chemotherapy and surgery, she decided to avail of an immunotherapy pill offered by Dr. Janeway. Kathryn choose to prioritize her quality of life and wanted to continue doing the activities she loved as long as possible. She returned to Boston, and despite side effects and fatigue, continued to find joy in each day and being outside.
+In May, Kathryn's scans revealed that the cancer had returned to her lungs, spread to the soft tissue in her shoulder, and could not be operated. After having gone through multiple rounds of extremely tough chemotherapy and surgery, she decided to avail of radiation therapy and an immunotherapy pill. Kathryn choose to prioritize her quality of life and wanted to continue doing the activities she loved as long as possible. She returned to Boston, and despite side effects and fatigue, continued to find joy in each day and being outside.
 
 {% include image-gallery.html folder="/assets/2023/Part C" %}
 
 </details>
 
 <details open>
-<summary>2024 - Portugal and a dramatic story</summary>
+<summary>2024 - Portugal and drama</summary>
 
 Kathryn always wanted to visit Portugal, so she and Sid planned a vacation in the middle of January to visit Lisbon and the island of Maderia! The start of the vacation was fun, and they had a great time exploring Belem, Sintra and the misty Fanal forest!
 
