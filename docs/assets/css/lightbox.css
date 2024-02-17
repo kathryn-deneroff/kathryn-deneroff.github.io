@@ -27,7 +27,17 @@
     1px 1px 0 #000;  
 }
 
-#lightbox span {display: none;}
+#lightbox span {
+    display: block; /* Ensures the span is displayed */
+    position: absolute; /* Positions the span at the bottom of the Lightbox */
+    bottom: 10px; /* Adjusts the distance from the bottom */
+    width: 100%; /* Ensures the span stretches across the Lightbox */
+    text-align: center; /* Centers the caption text */
+    color: white; /* Sets the text color */
+    font-size: 16px; /* Adjusts the text size */
+    padding: 5px; /* Adds some padding around the text */
+    box-sizing: border-box; /* Ensures padding is included in the width calculation */
+}
 
 #lightbox .videoWrapperContainer {
     position: relative; 

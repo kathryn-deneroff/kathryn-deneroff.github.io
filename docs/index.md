@@ -26,16 +26,17 @@ title: ""
   <img src="/assets/kd.jpg" alt="Kathryn L Deneroff" style="width: 240px; float: right"/>
 </p>
 
-This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment. 
+This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her journey, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment.
 
-Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time, the chance for more stories like Kathryn's to unfold and carry forward her legacy of hope and courage.
+Kathryn's story is shared with the hope that it not only honors her memory, but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time, the chance for more stories like Kathryn's to unfold and carry forward her legacy of hope and courage.
 
 Explore Kathryn's journey year by year by clicking on the entries below. Each section unfolds her story, capturing moments of challenge, triumph, and joy through words and images. For a closer look, **click on any thumbnail** to launch the gallery in fullscreen mode, where you can immerse yourself in the vivid details of her journey, honor Kathryn's memory and celebrate her enduring spirit and the beauty of her life's moments.
 
 <details> 
 <summary>2019 - Initial diagnosis and Chemo</summary>
 
-2019 brought a mix of challenge and joy for Kathryn. Despite facing a tough diagnosis and beginning chemotherapy and surgery, the year was also filled with moments of love and support. Kathryn stood beside her friends as a bridesmaid, explored Newport with Sid, and found joy in simple pleasures. From learning to navigate life on crutches, to enjoying music during treatment, Kathryn found genuine moments of resilience, friendship, and love.
+2019 brought a mix of challenge and joy for Kathryn. Despite facing a tough diagnosis in 
+April and then beginning chemotherapy and enduring four surgeries, the year was also filled with moments of love and support. Kathryn stood beside her friends as a bridesmaid, explored Newport with Sid, and found joy in simple pleasures. From learning to walk again, to enjoying music during treatment, Kathryn found genuine moments of resilience, friendship, and love.
 
 {% include image-gallery.html folder="/assets/2019-A" %}
 
@@ -51,7 +52,7 @@ As 2020 dawned, Kathryn marked a significant milestone by completing her first r
 
 {% include image-gallery.html folder="/assets/2020-A" %}
 
-Summer and fall of 2020 was filled with sunshine, the outdoors, adventure and laughter. There were many big milestones: a first hike post surgery in Massachusetts (Mt Tom State Reservation), kayaking in the Charles, picknicking at Spectacle Island, Apple picking in Northborough, camping in Conway, and visiting Maine with her parents. Winter also heralded the joyful arrival of Sadie, her mom's cavapoo!
+Summer and fall of 2020 were filled with sunshine, the outdoors, adventure and laughter. There were many big milestones: a first hike post surgery in Massachusetts (Mt Tom State Reservation), kayaking in the Charles, picnicking at Spectacle Island, Apple picking in Northborough, camping in Conway, and visiting Maine with her parents. Winter also heralded the joyful arrival of Sadie, her mom's cavapoo!
 
 {% include image-gallery.html folder="/assets/2020-B" %}
 
@@ -64,7 +65,7 @@ The year kicked off with winter hikes and snowshoeing adventures, a celebration 
 
 {% include image-gallery.html folder="/assets/2021-A" %}
 
-By May, Kathryn faced the stark reality of her cancer's return—a tough, albeit anticipated, hurdle. She underwent a second round of chemotherapy, radiation, and a rigorous surgery aimed at removing nodules from her lungs, shoulder, and hips in July. Despite the exhausting mental and physical toll, Kathryn's resilience and zest for life shone brightly. Incredibly, by November, she was back to her sanctuary—the great outdoors—embracing life with open arms, hiking, and sharing her radiant smile with the world.
+By April, Kathryn faced the stark reality of her cancer's return—a tough, albeit anticipated, hurdle. She underwent a second round of chemotherapy, radiation, and in July a rigorous surgery of her spine. Despite the exhausting mental and physical toll, Kathryn's resilience and zest for life shone brightly. She persevered and graduated from Northeastern University with a Master of Science in Energy System degree. By November, she was back to her sanctuary—the great outdoors—embracing life with open arms, hiking, and sharing her radiant smile with the world.
 
 {% include image-gallery.html folder="/assets/2021-B" %}
 
@@ -73,8 +74,7 @@ By May, Kathryn faced the stark reality of her cancer's return—a tough, albeit
 <details>
 <summary>2022 - Traveling the World</summary>
 
-The second round of chemo, radiation and surgery at Dana Farber had gifted Kathryn an additional period of good health. As always, she was determined to make full use of this time. This year she traveled the world! 
-
+The second round of chemo, radiation and surgery gifted Kathryn an additional period of good health. As always, she was determined to make full use of this time. This year she traveled the world!
 
 <h3> Yosemite & Muir Woods </h3>
 
@@ -103,7 +103,7 @@ The rest of the year was filled with various hikes, activities and adventures in
 </details>
 
 <details>
-<summary>2023 - Tuscon, Willow and Immunotherapy</summary>
+<summary>2023 - Tuscon, Willow and Treatment</summary>
 
 After a week hiking with her friends, Kathryn traveled to California to spend the early part of 2023 with Sid, along with a quick trip to Tuscon to celebrate her birthday! 
 
@@ -113,7 +113,7 @@ In April, she and Sid welcomed the arrival of the newest family member, their ca
 
 {% include image-gallery.html folder="/assets/2023/Part B" %}
 
-In May, Kathryn's scans revealed that the cancer had returned to her lungs, spread to the soft tissue in her shoulder, and could not be operated. After having gone through multiple rounds of extremely tough chemotherapy and surgery, she decided to avail of radiation therapy and an immunotherapy pill. Kathryn choose to prioritize her quality of life and wanted to continue doing the activities she loved as long as possible. She returned to Boston, and despite side effects and fatigue, continued to find joy in each day and being outside.
+In July, Kathryn's scans revealed that the cancer had returned to her lungs and in the soft tissue of her neck. A series of radiation treatments were followed by the start of a Tyrosine kinase inhibitor pill.  Kathryn chose to prioritize her quality of life and wanted to continue doing the activities she loved as long as possible. She returned to Boston, and despite side effects and fatigue, continued to find joy in each day and being outside.
 
 {% include image-gallery.html folder="/assets/2023/Part C" %}
 
@@ -126,11 +126,11 @@ Kathryn always wanted to visit Portugal, so she and Sid planned a vacation in th
 
 {% include image-gallery.html folder="/assets/2024/Portugal" %}
 
-However, a couple of days before they were scheduled to return, Kathryn began feeling unwell and short of breath. An urgent visit to the care center led to her being admitted to a hospital in Madeira, where she was diagnosed with severe double pneumonia. After a challenging 14-day treatment, further complications arose with the progression of her disease to the pleura in her lungs. On February 4th, Kathryn was air-lifted back to the United States, where she was lovingly attended to at Boston's Children's Hospital, surrounded by her family and her beloved dog, Willow.
+However, a couple of days before they were scheduled to return, Kathryn began feeling unwell and short of breath. An urgent visit to the care center led to her being admitted to a hospital in Madeira, where she was diagnosed with severe double pneumonia. After a challenging 14-day treatment, further complications arose with the progression of the cancer to the pleura in her lungs. On February 4th, Kathryn was air-lifted back to the United States, where she was lovingly attended to at Boston's Children's Hospital, surrounded by her family and her beloved dog, Willow.
 
 {% include image-gallery.html folder="/assets/2024/Hospital" %}
 
-Kathryn passed away peacefully in her sleep on Tuesday, February 13, enveloped in love and the comforting presence of her family and Willow. Throughout her ordeal, Kathryn's resilience, grace, and indomitable spirit never wavered. She faced each challenge with a pragmatic approach and her signature sense of humor, always prioritizing the well-being of others even in her toughest times.
+Kathryn passed away peacefully in her sleep on Tuesday, February 13, enveloped in love and the comforting presence of her family, Sid, and Willow. Throughout her journey, Kathryn's resilience, grace, and indomitable spirit never wavered. She faced each challenge with a pragmatic approach and her signature sense of humor, always prioritizing the well-being of others even in her toughest times.
 
 She is deeply missed and forever loved, leaving an indelible mark on the hearts of all who knew her.
 
