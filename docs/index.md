@@ -26,11 +26,13 @@ title: ""
   <img src="/assets/kd.jpg" alt="Kathryn L Deneroff" style="width: 240px; float: right"/>
 </p>
 
-This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment. Clicking on the images will load the gallery that can be viewed in full screen.
+This space is dedicated to celebrating the life and spirit of Kathryn Deneroff, whose journey through cancer was marked not just by the challenges she faced, but by the incredible resilience, joy, and love she shared along the way. Below, you will find snapshots and stories from different phases of her life, from the initial diagnosis to the cherished moments spent with loved ones, offering a window into the vibrancy with which she lived every moment. 
 
 Kathryn's story is shared with the hope that it not only honors her memory but also inspires others to support cancer research. Please consider ***[donating to the Dana Farber Cancer Institute](http://danafarber.jimmyfund.org/goto/kathryn-deneroff)***, to give others the precious gift of time, the chance for more stories like Kathryn's to unfold and carry forward her legacy of hope and courage.
 
-<details open> 
+Explore Kathryn's journey year by year by clicking on the entries below. Each section unfolds her story, capturing moments of challenge, triumph, and joy through words and images. For a closer look, **click on any thumbnail** to launch the gallery in fullscreen mode, where you can immerse yourself in the vivid details of her journey, honor Kathryn's memory and celebrate her enduring spirit and the beauty of her life's moments.
+
+<details> 
 <summary>2019 - Initial diagnosis and chemo</summary>
 
 2019 brought a mix of challenge and joy for Kathryn. Despite facing a tough diagnosis and beginning chemotherapy and surgery, the year was also filled with moments of love and support. Kathryn stood beside her friends as a bridesmaid, explored Newport with Sid, and found joy in simple pleasures. From learning to navigate life on crutches, to enjoying music during treatment, Kathryn found genuine moments of resilience, friendship, and love.
@@ -42,7 +44,7 @@ The difficult days of treatment were brightened by visits from dear friends and 
 {% include image-gallery.html folder="/assets/2019-B" %}
 </details>
 
-<details open>
+<details>
 <summary>2020 - Recovery and Adventure</summary>
 
 As 2020 dawned, Kathryn marked a significant milestone by completing her first round of chemotherapy in January. Soon after, the world shifted into the quiet of lockdown. Amidst the isolation, Kathryn turned to nature and wellness as her sanctuary; embracing walking, biking, and exercise to rebuild her strength. A long car journey back to her family home in Michigan became a retreat, where cooking, enjoying backyard marshmallows, and playing board games became fun activities.
@@ -55,7 +57,7 @@ Summer and fall of 2020 was filled with sunshine, the outdoors, adventure and la
 
 </details>
 
-<details open>
+<details>
 <summary>2021 - Spring, Recurrence and Surgery</summary>
 
 The year kicked off with winter hikes and snowshoeing adventures, a celebration of her birthday, the captivating beauty of sunsets, the first thaw of winter and the colorful spring tulip blooms.
@@ -68,7 +70,7 @@ By May, Kathryn faced the stark reality of her cancer's return—a tough, albeit
 
 </details>
 
-<details open>
+<details>
 <summary>2022 - Traveling the World</summary>
 
 The second round of chemo, radiation and surgery at Dana Farber had gifted Kathryn an additional period of good health. As always, she was determined to make full use of this time. This year she traveled the world! 
@@ -100,7 +102,7 @@ The rest of the year was filled with various hikes, activities and adventures in
 
 </details>
 
-<details open>
+<details>
 <summary>2023 - Tuscon, Willow and Immunotherapy</summary>
 
 After a week hiking with her friends, Kathryn traveled to California to spend the early part of 2023 with Sid, along with a quick trip to Tuscon to celebrate her birthday! 
@@ -117,7 +119,7 @@ In May, Kathryn's scans revealed that the cancer had returned to her lungs, spre
 
 </details>
 
-<details open>
+<details>
 <summary>2024 - Portugal and drama</summary>
 
 Kathryn always wanted to visit Portugal, so she and Sid planned a vacation in the middle of January to visit Lisbon and the island of Maderia! The start of the vacation was fun, and they had a great time exploring Belem, Sintra and the misty Fanal forest!
